@@ -2,7 +2,7 @@
   <a href="http://nestjs.com/" target="blank"><img src="https://www.svgrepo.com/download/452234/java.svg" height="110" alt="Nest Logo" /></a>
 </p>
 
-## Getting Started With DuplicadsosNão
+## Getting Started With DuplicadosNão
 
 > Enter two arrays and press `Enter` to find duplicated elements.
 
@@ -12,7 +12,7 @@ Example:
 First array: joao, maria, jose, ana
 Second array: joana, jose, mario, josefa
 
-Output: jose
+Output: [jose]
 ```
 
 ## Folder Structure
